@@ -1,6 +1,6 @@
 # PrologCache
 A computer cache system done in prolog
-# About
+# About(group project)
 The project can be decomposed into 3 components(cache models), 1 general component and a replace in cache component
 #### Component 1
 getDataFromCache/6 in Direct Mapping
